@@ -218,7 +218,7 @@ class _UsersAccountInformation extends StatelessWidget {
                 crossAxisAlignment: CrossAxisAlignment.start,
                 children: const <Widget>[
                   Text(
-                    '+7(903)888-56-26',
+                    '+7(123)456-78-90',
                     style: TextStyle(
                       color: Colors.white,
                       fontWeight: FontWeight.w600,
@@ -248,7 +248,7 @@ class _UsersAccountInformation extends StatelessWidget {
                 crossAxisAlignment: CrossAxisAlignment.start,
                 children: const <Widget>[
                   Text(
-                    '@ton_pil',
+                    '@abcdeFG',
                     style: TextStyle(
                       color: Colors.white,
                       fontWeight: FontWeight.w600,
@@ -348,7 +348,7 @@ class _UsersNameAndStatus extends StatelessWidget {
           crossAxisAlignment: CrossAxisAlignment.start,
           children: const <Widget>[
             Text(
-              'Игорь Фигурин',
+              'Иван Иванов',
               textDirection: TextDirection.rtl,
               style: TextStyle(
                 color: Colors.white,
